@@ -1,0 +1,4 @@
+Zhehao (Kenny) Zhang is a Statistics PhD student at University of Washington, where he works on
+Causal Inference with Carlos Cinelli and Thomas Richardson. He received his Bachelor's degrees in Mathematics and Statistics
+from College of Creative Studies, University of California, Santa Barbara in 2016, where he was fortunately advised by
+Alex Shkolnik and Karel Casteels.
